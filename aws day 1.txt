@@ -1,0 +1,19 @@
+ec2 ---> elastic compute cloud---> server (local name) -----> instance (aws name)
+
+operating systems: 
+1. windows
+2. linux
+3. mac ios
+4. ubuntu
+5. cent os 
+
+linux, cent os, ubuntu ---> unix
+what is kernel ?
+kernel is heart of linux operating system. which acts as a bridge between hardware and software .
+
+storage names
+1. hard disk - local name
+2. EBS (elastic block storage) - aws name
+
+storage - local name
+volume - aws name
